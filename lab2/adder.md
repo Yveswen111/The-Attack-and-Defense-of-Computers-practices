@@ -7,7 +7,7 @@ Enter three numbers!
 6
 nope.
 ```
-輸入三個數字，然後判斷 \\
+輸入三個數字，然後判斷  
 執行radare2
 ```
 root@kali:~/re-ctf-202109/basic/adder_ctf# r2 adder 
